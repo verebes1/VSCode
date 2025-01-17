@@ -9,7 +9,7 @@ This repository contains general useful tips and tricks for VSCode, including:
 
 ## Debugging
 
-- [Debugging Cucumber Ruby](./debugging-cucumber-ruby/README.md)
+- [Debugging Cucumber Ruby](./debugging/cucumber-ruby/README.md)
 
 ## Cheat sheets
 
