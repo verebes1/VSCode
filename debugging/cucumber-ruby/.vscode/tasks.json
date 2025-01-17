@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "stopCucumber",
+        "type": "shell",
+        "command": "ps aux | grep '[r]uby .*cucumber' | awk '{print $2}' | xargs kill -9",
+        "problemMatcher": []
+      }
+    ]
+  }
